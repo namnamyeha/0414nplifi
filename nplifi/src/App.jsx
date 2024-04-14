@@ -19,7 +19,7 @@ function App() {
       <h1>💜💜💜💜💜💜💜</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          사랑하는 만큼 누르기! {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
